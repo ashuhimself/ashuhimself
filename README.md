@@ -17,7 +17,7 @@
 
 👨‍💻 You can find all of my projects on **https://github.com/ashuhimself**.
 
-📫 Feel free to reach out to me at ashuxtosh@gmail.com.
+📫 Feel free to reach out to me 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -26,10 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ashuhimself" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ashuhimself" height="30" width="40" /></a>
-<a href="https://twitter.com/illuminaughtyin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="illuminaughtyin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashuhimself" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashuhimself" height="30" width="40" /></a>
-<a href="https://instagram.com/illuminaughtyin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="illuminaughtyin" height="30" width="40" /></a>
-<a href="https://medium.com/@ashuxtosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ashuxtosh" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
