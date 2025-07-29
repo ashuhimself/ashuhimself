@@ -1,39 +1,238 @@
-[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)](https://github.com/ashuhimself)
-<h1 align="center">Hi 👋, I'm Ashutosh</h1>
-<h3 align="center">A passionate Data enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+# 🚀 Data Engineer | Cloud Architect | MLOps Specialist
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashuhimself&label=Profile%20views&color=0e75b6&style=flat" alt="ashuhimself" /> </p>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Scalable+Data+Pipelines;Orchestrating+Cloud+Infrastructure;Transforming+Raw+Data+into+Insights)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://twitter.com/illuminaughtyin" target="blank"><img src="https://img.shields.io/twitter/follow/illuminaughtyin?logo=twitter&style=for-the-badge" alt="illuminaughtyin" /></a> </p>
+</div>
 
-🔭 I’m a Data Engineer skilled in building **scalable data pipelines and creating efficient data solutions.**
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="coding">
+</div>
 
-🌱 Currently, I’m enhancing my skills in **Scala, Spark and Rust**.
+---
 
-💼 I have extensive experience with **Python, SQL, AWS, and GCP**, and I specialize in automating workflows and optimizing data processes.
+## 🎯 **About Me**
 
-👯 I’m looking to collaborate on **Data Engineering Projects.**
+> *"Data is the new oil, and I'm the engineer who builds the refineries"*
 
-👨‍💻 You can find all of my projects on **https://github.com/ashuhimself**.
+🔧 **Senior Data Engineer** with expertise in designing and implementing enterprise-scale data architectures  
+☁️ **Cloud Native** specialist focused on AWS & GCP ecosystems  
+🤖 **MLOps Enthusiast** bridging the gap between data science and production systems  
+🌍 **Open Source Contributor** passionate about democratizing data engineering tools  
 
-📫 Feel free to reach out to me 
+```python
+class DataEngineer:
+    def __init__(self):
+        self.name = "Ashutosh"
+        self.role = "Senior Data Engineer"
+        self.language_spoken = ["Python", "SQL", "Scala", "Bash"]
+        self.cloud_platforms = ["AWS", "GCP", "Azure"]
+        self.specialization = [
+            "Data Pipeline Architecture",
+            "Real-time Stream Processing", 
+            "MLOps & Model Deployment",
+            "Infrastructure as Code"
+        ]
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together 🚀")
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+me = DataEngineer()
+me.say_hi()
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/ashuhimself" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ashuhimself" height="30" width="40" /></a>
+---
 
-</p>
+## 🛠️ **Technology Arsenal**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<details>
+<summary><b>🐍 Data Processing & Analytics</b></summary>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashuhimself&show_icons=true&locale=en&layout=compact" alt="ashuhimself" /></p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![Ibis](https://img.shields.io/badge/Ibis-FF6B35?style=for-the-badge&logo=ibis&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashuhimself&show_icons=true&locale=en" alt="ashuhimself" /></p>
+</details>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashuhimself&" alt="ashuhimself" /></p>
+<details>
+<summary><b>☁️ Cloud & Infrastructure</b></summary>
+<br>
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Amazon EKS](https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🔄 Orchestration & Workflow</b></summary>
+<br>
+
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🗄️ Data Storage & Processing</b></summary>
+<br>
+
+![Trino](https://img.shields.io/badge/Trino-DD00A1?style=for-the-badge&logo=trino&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge&logo=databricks&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🤖 MLOps & AI</b></summary>
+<br>
+
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Amazon SageMaker](https://img.shields.io/badge/Amazon%20SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🔧 DevOps & Version Control</b></summary>
+<br>
+
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0047AB?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+</details>
+
+---
+
+## 📊 **Data Engineering Philosophy**
+
+```mermaid
+graph TD
+    A[Raw Data] --> B[Ingestion Layer]
+    B --> C[Processing Engine]
+    C --> D[Storage Layer]
+    D --> E[Transformation]
+    E --> F[Analytics Layer]
+    F --> G[ML/AI Models]
+    G --> H[Business Intelligence]
+    
+    B -.-> I[Apache Airflow]
+    C -.-> J[Spark/Trino]
+    D -.-> K[Delta Lake]
+    E -.-> L[dbt]
+    F -.-> M[Databricks]
+    G -.-> N[SageMaker]
+    H -.-> O[Dashboard/APIs]
+```
+
+---
+
+## 🎯 **Current Focus Areas**
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔥 **What I'm Building**
+- 📡 Real-time streaming architectures
+- 🏗️ Serverless data pipelines
+- 🤖 LLM-powered data insights
+- 🔄 GitOps for data workflows
+
+</td>
+<td width="50%">
+
+### 📚 **What I'm Learning**
+- 🦀 Rust for high-performance computing
+- ⚡ Apache Polars for blazing-fast analytics
+- 🧠 Vector databases & embeddings
+- 🌐 Event-driven architectures
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 **GitHub Analytics**
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashuhimself&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=70a5fd)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashuhimself&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashuhimself&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=70a5fd&fire=ffb86c&currStreakLabel=38bdae)
+
+</div>
+
+---
+
+## 🏆 **Featured Projects**
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashuhimself&repo=data-pipeline-framework&theme=tokyonight&hide_border=true&bg_color=1a1b27)](https://github.com/ashuhimself)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashuhimself&repo=mlops-template&theme=tokyonight&hide_border=true&bg_color=1a1b27)](https://github.com/ashuhimself)
+
+</div>
+
+---
+
+## 🌟 **Data Engineering Principles**
+
+<div align="center">
+
+| 🔄 | 📊 | ⚡ | 🛡️ | 🔧 |
+|:---:|:---:|:---:|:---:|:---:|
+| **Scalable** | **Observable** | **Performant** | **Reliable** | **Maintainable** |
+| Design for growth | Monitor everything | Optimize continuously | Build fault-tolerant | Keep it simple |
+
+</div>
+
+---
+
+## 🤝 **Let's Connect & Collaborate**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutosh)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/illuminaughtyin)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/ashuhimself)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
+
+**💡 Open to:** Data Engineering Collaborations | Mentoring | Technical Discussions | Open Source Contributions
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🎯 **"Building the data infrastructure of tomorrow, today"**
+
+![Profile Views](https://komarev.com/ghpvc/?username=ashuhimself&label=Profile%20views&color=70a5fd&style=for-the-badge)
+
+⭐ **If you find my work valuable, consider starring my repositories!**
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
