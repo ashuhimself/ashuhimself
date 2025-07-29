@@ -3,7 +3,12 @@
 <div align="center">
   
 <!-- Animated Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Ashutosh%20-%20Data%20Engineer&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Building%20the%20Data%20Infrastructure%20of%20Tomorrow&descAlignY=51&descAlign=62" />
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<!-- Professional Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=50&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1200&lines=Ashutosh+-+Data+Engineer;Building+the+Data+Infrastructure+of+Tomorrow" alt="Typing SVG" />
+</div>
 
 <!-- Animated Typing with Multiple Lines -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=1200&height=150&lines=🔧+Senior+Data+Engineer+%7C+10%2B+Years+Experience;☁️+Cloud+Native+Architect+%7C+AWS+%26+GCP+Certified;🤖+MLOps+Specialist+%7C+Building+AI+at+Scale;🌍+Open+Source+Contributor+%7C+100K%2B+Downloads)](https://git.io/typing-svg)
@@ -83,7 +88,7 @@ me = DataEngineerExtraordinaire()
 <td width="40%">
 
 <!-- Animated GIF -->
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="400" alt="coding">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" alt="coding">
 
 ### 📊 **Impact Metrics**
 <div align="center">
@@ -148,69 +153,213 @@ me = DataEngineerExtraordinaire()
 <details open>
 <summary><b>🐍 Data Processing & Analytics</b></summary>
 <br>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,scala,rust,go" />
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=apache-flink&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-<img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white" />
-<img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
-<img src="https://img.shields.io/badge/Apache%20Arrow-338AFF?style=for-the-badge&logo=apache&logoColor=white" />
-</p>
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" />
+<br><b>Python</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="60" height="60" />
+<br><b>Scala</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="60" height="60" />
+<br><b>Rust</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="60" height="60" />
+<br><b>Go</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="60" height="60" />
+<br><b>Apache Spark</b>
+</td>
+<td align="center" width="120">
+<img src="https://svn.apache.org/repos/asf/comdev/project-logos/originals/flink.svg" width="60" height="60" />
+<br><b>Apache Flink</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<img src="https://kafka.apache.org/logos/kafka-logo-no-text.png" width="60" height="60" />
+<br><b>Apache Kafka</b>
+</td>
+<td align="center" width="120">
+<img src="https://www.databricks.com/wp-content/uploads/2021/05/databricks-logo-icon.svg" width="60" height="60" />
+<br><b>Databricks</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.worldvectorlogo.com/logos/snowflake.svg" width="60" height="60" />
+<br><b>Snowflake</b>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars-logo-dark.svg" width="60" height="60" />
+<br><b>Polars</b>
+</td>
+<td align="center" width="120">
+<img src="https://duckdb.org/images/DuckDB-Logo.png" width="60" height="60" />
+<br><b>DuckDB</b>
+</td>
+<td align="center" width="120">
+<img src="https://arrow.apache.org/img/arrow-logo_horizontal_black-txt_white-bg.png" width="60" height="60" />
+<br><b>Apache Arrow</b>
+</td>
+</tr>
+</table>
 </details>
 
 <details open>
 <summary><b>☁️ Cloud & Infrastructure</b></summary>
 <br>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,terraform,ansible" />
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon%20EMR-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white" />
-<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Dataflow-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
-<img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white" />
-</p>
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" height="60" />
+<br><b>AWS</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" height="60" />
+<br><b>Google Cloud</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60" height="60" />
+<br><b>Azure</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60" height="60" />
+<br><b>Kubernetes</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="60" height="60" />
+<br><b>Terraform</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="60" height="60" />
+<br><b>Ansible</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" height="60" />
+<br><b>Amazon S3</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" height="60" />
+<br><b>Amazon EMR</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" height="60" />
+<br><b>Redshift</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" height="60" />
+<br><b>BigQuery</b>
+</td>
+<td align="center" width="120">
+<img src="https://helm.sh/img/helm.svg" width="60" height="60" />
+<br><b>Helm</b>
+</td>
+<td align="center" width="120">
+<img src="https://istio.io/latest/img/istio-whitelogo-bluebackground-framed.svg" width="60" height="60" />
+<br><b>Istio</b>
+</td>
+</tr>
+</table>
 </details>
 
 <details open>
 <summary><b>🤖 MLOps & AI Infrastructure</b></summary>
 <br>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubeflow&logoColor=white" />
-<img src="https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white" />
-<img src="https://img.shields.io/badge/W&B-FFCC00?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
-<img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white" />
-</p>
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" height="60" />
+<br><b>PyTorch</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60" />
+<br><b>TensorFlow</b>
+</td>
+<td align="center" width="120">
+<img src="https://mlflow.org/img/mlflow-logo.svg" width="60" height="60" />
+<br><b>MLflow</b>
+</td>
+<td align="center" width="120">
+<img src="https://www.kubeflow.org/images/logo.svg" width="60" height="60" />
+<br><b>Kubeflow</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" height="60" />
+<br><b>SageMaker</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" height="60" />
+<br><b>Vertex AI</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<img src="https://docs.ray.io/en/latest/_static/ray_logo.png" width="60" height="60" />
+<br><b>Ray</b>
+</td>
+<td align="center" width="120">
+<img src="https://assets.website-files.com/5e6f7cd3ee7f51d539a4da0b/623d0fb8b2f02d3b8b72c737_logo-dark.svg" width="60" height="60" />
+<br><b>Weights & Biases</b>
+</td>
+<td align="center" width="120">
+<img src="https://dvc.org/img/logo-dvc.svg" width="60" height="60" />
+<br><b>DVC</b>
+</td>
+</tr>
+</table>
 </details>
 
 <details open>
 <summary><b>🔄 Orchestration & DataOps</b></summary>
 <br>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab" />
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Prefect-024DFD?style=for-the-badge&logo=prefect&logoColor=white" />
-<img src="https://img.shields.io/badge/Dagster-0C0C0C?style=for-the-badge&logo=dagster&logoColor=white" />
-<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
-<img src="https://img.shields.io/badge/Great%20Expectations-FE5C5C?style=for-the-badge&logo=great-expectations&logoColor=white" />
-<img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
-</p>
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="60" height="60" />
+<br><b>Jenkins</b>
+</td>
+<td align="center" width="120">
+<img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" width="60" height="60" />
+<br><b>GitHub Actions</b>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="60" height="60" />
+<br><b>GitLab CI</b>
+</td>
+<td align="center" width="120">
+<img src="https://airflow.apache.org/images/feature-image.png" width="60" height="60" />
+<br><b>Apache Airflow</b>
+</td>
+<td align="center" width="120">
+<img src="https://www.prefect.io/assets/img/prefect-logo-full-gradient.svg" width="60" height="60" />
+<br><b>Prefect</b>
+</td>
+<td align="center" width="120">
+<img src="https://dagster.io/images/brand/logos/dagster-primary-mark.svg" width="60" height="60" />
+<br><b>Dagster</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/dbt-labs/dbt-core/main/etc/dbt-logo-full.svg" width="60" height="60" />
+<br><b>dbt</b>
+</td>
+<td align="center" width="120">
+<img src="https://greatexpectations.io/img/gx-logo-dark.svg" width="60" height="60" />
+<br><b>Great Expectations</b>
+</td>
+<td align="center" width="120">
+<img src="https://cncf-branding.netlify.app/img/projects/argo/horizontal/color/argo-horizontal-color.svg" width="60" height="60" />
+<br><b>Argo CD</b>
+</td>
+</tr>
+</table>
 </details>
 
 </div>
@@ -373,24 +522,6 @@ gitGraph
     commit id: "Principal Engineer 🚀"
     commit id: "Building the Future..."
 ```
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🌟 **Achievements & Recognition**
-
-<div align="center">
-
-| 🏆 **Achievement** | 📅 **Year** | 🎯 **Impact** |
-|:------------------:|:-----------:|:-------------:|
-| AWS Solutions Architect Pro | 2023 | Cloud Excellence |
-| Google Cloud Professional | 2023 | Multi-cloud Expert |
-| Apache Spark Contributor | 2022 | Open Source Impact |
-| Data Platform of the Year | 2022 | Industry Recognition |
-| Speaker at DataEngConf | 2021 | Thought Leadership |
-| Published "Streaming at Scale" | 2021 | 10K+ Readers |
 
 </div>
 
