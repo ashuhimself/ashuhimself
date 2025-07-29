@@ -1,6 +1,13 @@
 # 🚀 Data Engineer | Cloud Architect | MLOps Specialist
 
 <div align="center">
+
+<!-- Coding Dev GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" />
+
+</div>
+
+<div align="center">
   
 <!-- Animated Wave -->
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
@@ -49,7 +56,7 @@ class DataEngineerExtraordinaire:
     def __init__(self):
         self.name = "Ashutosh"
         self.role = "Principal Data Engineer"
-        self.experience = "10+ Years"
+        self.experience = "4+ Years"
         self.location = "🌍 Global Remote"
         
         self.expertise = {
@@ -67,7 +74,7 @@ class DataEngineerExtraordinaire:
         }
         
         self.achievements = {
-            "data_processed": "10+ PB",
+            "data_processed": "4+ PB",
             "pipelines_built": "500+",
             "cost_saved": "$5M+",
             "teams_led": "50+ engineers"
@@ -176,25 +183,25 @@ me = DataEngineerExtraordinaire()
 <br><b>Apache Spark</b>
 </td>
 <td align="center" width="120">
-<img src="https://svn.apache.org/repos/asf/comdev/project-logos/originals/flink.svg" width="60" height="60" />
+<img src="https://flink.apache.org/img/flink-header-logo.svg" width="60" height="60" />
 <br><b>Apache Flink</b>
 </td>
 </tr>
 <tr>
 <td align="center" width="120">
-<img src="https://kafka.apache.org/logos/kafka-logo-no-text.png" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="60" height="60" />
 <br><b>Apache Kafka</b>
 </td>
 <td align="center" width="120">
-<img src="https://www.databricks.com/wp-content/uploads/2021/05/databricks-logo-icon.svg" width="60" height="60" />
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/databricks_logo_icon_170295.png" width="60" height="60" />
 <br><b>Databricks</b>
 </td>
 <td align="center" width="120">
-<img src="https://cdn.worldvectorlogo.com/logos/snowflake.svg" width="60" height="60" />
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/snowflake_original_logo_icon_146531.png" width="60" height="60" />
 <br><b>Snowflake</b>
 </td>
 <td align="center" width="120">
-<img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars-logo-dark.svg" width="60" height="60" />
+<img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/web/images/polars-logo-dark-medium.png" width="60" height="60" />
 <br><b>Polars</b>
 </td>
 <td align="center" width="120">
@@ -567,7 +574,7 @@ gitGraph
 
 <div align="center">
 
-<a href="https://linkedin.com/in/ashutosh">
+<a href="https://linkedin.com/in/ashuhimself">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://twitter.com/illuminaughtyin">
@@ -631,7 +638,7 @@ gitGraph
 </div>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <div align="center">
   
