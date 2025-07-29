@@ -46,10 +46,7 @@ me.say_hi()
 
 ## 🛠️ **Technology Arsenal**
 
-<details>
-<summary><b>🐍 Data Processing & Analytics</b></summary>
-<br>
-
+### 🐍 **Data Processing & Analytics**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
@@ -57,12 +54,7 @@ me.say_hi()
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 ![Ibis](https://img.shields.io/badge/Ibis-FF6B35?style=for-the-badge&logo=ibis&logoColor=white)
 
-</details>
-
-<details>
-<summary><b>☁️ Cloud & Infrastructure</b></summary>
-<br>
-
+### ☁️ **Cloud & Infrastructure**
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -70,74 +62,32 @@ me.say_hi()
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
-</details>
-
-<details>
-<summary><b>🔄 Orchestration & Workflow</b></summary>
-<br>
-
+### 🔄 **Orchestration & Workflow**
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-</details>
-
-<details>
-<summary><b>🗄️ Data Storage & Processing</b></summary>
-<br>
-
+### 🗄️ **Data Storage & Processing**
 ![Trino](https://img.shields.io/badge/Trino-DD00A1?style=for-the-badge&logo=trino&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge&logo=databricks&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-</details>
-
-<details>
-<summary><b>🤖 MLOps & AI</b></summary>
-<br>
-
+### 🤖 **MLOps & AI**
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Amazon SageMaker](https://img.shields.io/badge/Amazon%20SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-</details>
-
-<details>
-<summary><b>🔧 DevOps & Version Control</b></summary>
-<br>
-
+### 🔧 **DevOps & Version Control**
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0047AB?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-</details>
-
 ---
-
-## 📊 **Data Engineering Philosophy**
-
-```mermaid
-graph TD
-    A[Raw Data] --> B[Ingestion Layer]
-    B --> C[Processing Engine]
-    C --> D[Storage Layer]
-    D --> E[Transformation]
-    E --> F[Analytics Layer]
-    F --> G[ML/AI Models]
-    G --> H[Business Intelligence]
-    
-    B -.-> I[Apache Airflow]
-    C -.-> J[Spark/Trino]
-    D -.-> K[Delta Lake]
-    E -.-> L[dbt]
-    F -.-> M[Databricks]
-    G -.-> N[SageMaker]
-    H -.-> O[Dashboard/APIs]
-```
 
 ---
 
@@ -152,19 +102,29 @@ graph TD
 - 🏗️ Serverless data pipelines
 - 🤖 LLM-powered data insights
 - 🔄 GitOps for data workflows
+- 🌐 Event-driven architectures
+- ⚡ Apache Polars for blazing-fast analytics
 
 </td>
 <td width="50%">
 
 ### 📚 **What I'm Learning**
 - 🦀 Rust for high-performance computing
-- ⚡ Apache Polars for blazing-fast analytics
-- 🧠 Vector databases & embeddings
-- 🌐 Event-driven architectures
+- 🏗️ Data platform as a service
+- 🤖 Advanced AI/ML techniques
+- 🔮 Vector databases & embeddings
+- 🧠 Large Language Model engineering
 
 </td>
 </tr>
 </table>
+
+### 💡 **Help & Collaboration**
+> 🤝 **Open to mentoring** junior data engineers and sharing knowledge about:
+> - Building scalable data architectures
+> - Best practices in MLOps and DevOps
+> - Cloud-native data solutions
+> - Open source data tools
 
 ---
 
@@ -172,11 +132,11 @@ graph TD
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashuhimself&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=70a5fd)
+<img src="https://github-readme-stats.vercel.app/api?username=ashuhimself&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=70a5fd" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashuhimself&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashuhimself&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashuhimself&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=70a5fd&fire=ffb86c&currStreakLabel=38bdae)
+<img src="https://streak-stats.demolab.com/?user=ashuhimself&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=70a5fd&fire=ffb86c&currStreakLabel=38bdae" alt="GitHub Streak" />
 
 </div>
 
@@ -192,17 +152,6 @@ graph TD
 </div>
 
 ---
-
-## 🌟 **Data Engineering Principles**
-
-<div align="center">
-
-| 🔄 | 📊 | ⚡ | 🛡️ | 🔧 |
-|:---:|:---:|:---:|:---:|:---:|
-| **Scalable** | **Observable** | **Performant** | **Reliable** | **Maintainable** |
-| Design for growth | Monitor everything | Optimize continuously | Build fault-tolerant | Keep it simple |
-
-</div>
 
 ---
 
