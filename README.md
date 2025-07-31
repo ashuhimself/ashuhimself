@@ -18,7 +18,7 @@
 </div>
 
 <!-- Animated Typing with Multiple Lines -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=1200&height=150&lines=🔧+Senior+Data+Engineer+%7C+10%2B+Years+Experience;☁️+Cloud+Native+Architect+%7C+AWS+%26+GCP+Certified;🤖+MLOps+Specialist+%7C+Building+AI+at+Scale;🌍+Open+Source+Contributor+%7C+100K%2B+Downloads)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=1200&height=150&lines=🔧+Senior+Data+Engineer+%7C+4%2B+Years+Experience;☁️+Cloud+Native+Architect+%7C+AWS+%26+GCP+Certified;🤖+MLOps+Specialist+%7C+Building+AI+at+Scale;🌍+Open+Source+Contributor+%7C+100K%2B+Downloads)](https://git.io/typing-svg)
 
 <!-- Badges Section -->
 <img src="https://img.shields.io/badge/Focus-Big%20Data%20%26%20AI-00D9FF?style=for-the-badge&logo=apache-spark&logoColor=white" />
