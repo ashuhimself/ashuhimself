@@ -84,9 +84,9 @@ class DataEngineer:
 ### Data Warehouses & Analytics
 <p align="left">
     <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="bigquery" width="50" height="50"/>
-    <img src="https://images.seeklogo.com/logo-png/42/1/aws-redshift-logo-png_seeklogo-427443.png" alt="redshift" width="50" height="50"/>
+    <img src="https://www.logoxel.com/storage/logo/logo-865d8213b436c99ee2cc84005a27f1a1.svg" alt="redshift" width="50" height="50"/>
     <img src="https://storage-us-gcs.bfldr.com/fgbss58nhtth439cb7t69qq/v/1197416715/original/Logomark_White_300dpi_FNL.png?Expires=1760837332&KeyName=gcs-bfldr-prod&Signature=GKbSb1EZG9fjNMoEhNkQiI1t_xE=" alt="clickhouse" width="50" height="50"/>
-    <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt" width="50" height="50"/>
+    <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/dbt-ytv7trkoaqcnvr5yxcvvk.png/dbt-384wi7nth5d4pvytczw6vn.png?_a=DATAg1AAZAA0" alt="dbt" width="50" height="50"/>
 </p>
 
 ### Currently Learning
