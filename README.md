@@ -13,16 +13,25 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=800&color=2E86C1&center=true&vCenter=true&width=600&height=60&lines=Hello%2C+I'm+Ashutosh+Tiwari+👋;Data+Engineer+📊;4%2B+Years+Experience+⚡;Building+Scalable+Data+Pipelines+🚀;Multi-Cloud+Architecture+Expert+☁️" alt="Typing SVG" />
 </div>
 
-<div align="center">
-    <h2>🚀 Transforming Raw Data into Actionable Insights</h2>
-    <p><em>Passionate about building robust data infrastructure that scales</em></p>
+<h2 align="center">🚀 Transforming Raw Data into Actionable Insights</h2>
+<p align="center"><em>Passionate about building robust data infrastructure that scales</em></p>
 
-    [![LinkedIn](https://img.shields.io/badge/-ashuhimself-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ashuhimself)](https://linkedin.com/in/ashuhimself)
-    [![Gmail](https://img.shields.io/badge/-ashuxtosh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashuxtosh@gmail.com)](mailto:ashuxtosh@gmail.com)
-    [![GitHub](https://img.shields.io/github/followers/ashuhimself?label=Follow&style=social)](https://github.com/ashuhimself)
+<p align="center">
+  <a href="https://linkedin.com/in/ashuhimself">
+    <img src="https://img.shields.io/badge/-ashuhimself-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ashuxtosh@gmail.com">
+    <img src="https://img.shields.io/badge/-ashuxtosh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/ashuhimself">
+    <img src="https://img.shields.io/github/followers/ashuhimself?label=Follow&style=social" alt="GitHub"/>
+  </a>
+</p>
 
-    ![Profile Views](https://komarev.com/ghpvc/?username=ashuhimself&color=blueviolet&style=flat-square&label=Profile+Views)
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashuhimself&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
+
 
 <br/>
 
